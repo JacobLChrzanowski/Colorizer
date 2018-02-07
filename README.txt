@@ -4,14 +4,15 @@
 ##   Live v1.0.5                ##   #  Jacob L Chrzanowski  #
 #################################  # # # # # # # # # # # # #
 	
-Colorizer is unfinished and does not look like it will in its finished state.
+Colorizer is nearly finished and looks similar to what it will in its finished state. I hope to rewrite this in Python for corss-platform support (AutoHotKey on MacOS is difficult to set up, and I haven't tried to on linux yet.
 
+The bundled .zip contains all the files to get this up and running on a Windows 64-bit PC.
 
 To use Colorizer:
  • Extract .zip to a safe place
  • Copy the .exe and paste it to your desktop as a shortcut
  • Run the shortcut
- • Select some text in CALO notes and Ctrl+RightClick on it
+ • Select some text and Ctrl+RightClick on it
  • Select the color modifier you would like to use
  ○ Some color option do not have an example shown.
     These option are still functional.
