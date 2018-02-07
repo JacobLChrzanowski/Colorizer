@@ -1,8 +1,8 @@
 
 #####################################    # # # # # # # # # # # #
 ## Welcome to Colorizer.exe       ##   #   Written by         #
-##   Live v1.0.5               ##   #  Jacob L Chrzanowski  #
-################################   # # # # # # # # # # # # #
+##   Live v1.0.5                ##   #  Jacob L Chrzanowski  #
+#################################  # # # # # # # # # # # # #
 	
 Colorizer is unfinished and does not look like it will in its finished state.
 
